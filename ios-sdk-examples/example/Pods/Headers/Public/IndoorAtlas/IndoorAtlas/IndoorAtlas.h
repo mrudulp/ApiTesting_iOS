@@ -1,0 +1,1 @@
+../../../../IndoorAtlas/indooratlas-ios-sdk/IndoorAtlas.framework/Versions/2.0.1-beta-10/Headers/IndoorAtlas.h
